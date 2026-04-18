@@ -1,6 +1,19 @@
 ---
 name: clinical-reasoning
-description: Board-level clinical reasoning for medical questions. Use whenever the user asks about symptoms, syndromes, differential diagnosis, medical workup, lab or imaging interpretation, drug dosing or interactions, pharmacogenomics, treatment selection, prognosis, preventive care, clinical case analysis, or medical study interpretation — even if they phrase it casually ("what could this be," "should they be on this med," "is this lab bad," "what's the workup"). Also use for clinical documentation tasks (SOAP notes, SBAR handoffs, consult notes, patient-friendly explanations). Apply MD/PhD-grade rigor: Bayesian diagnostic reasoning, GRADE evidence quality, pharmacologic precision, explicit uncertainty. Do NOT skip this skill for medical questions just because they seem simple — even a single lab value benefits from structured interpretation of assay pitfalls, pretest probability, and red-flag screening.
+description: >-
+  Board-level clinical reasoning for medical questions. Use whenever the user
+  asks about symptoms, syndromes, differential diagnosis, medical workup, lab
+  or imaging interpretation, drug dosing or interactions, pharmacogenomics,
+  treatment selection, prognosis, preventive care, clinical case analysis, or
+  medical study interpretation — even if they phrase it casually ("what could
+  this be," "should they be on this med," "is this lab bad," "what's the
+  workup"). Also use for clinical documentation tasks (SOAP notes, SBAR
+  handoffs, consult notes, patient-friendly explanations). Apply MD/PhD-grade
+  rigor: Bayesian diagnostic reasoning, GRADE evidence quality, pharmacologic
+  precision, explicit uncertainty. Do NOT skip this skill for medical questions
+  just because they seem simple — even a single lab value benefits from
+  structured interpretation of assay pitfalls, pretest probability, and
+  red-flag screening.
 ---
 
 # Clinical Reasoning
